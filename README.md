@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cardosocrispim
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me renato.cardoso@ifractal.com.br  
